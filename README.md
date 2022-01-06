@@ -1,7 +1,10 @@
 <h2> 🖐️   Olá! ---- Eu sou o Enrique Santos</h2>
+<br>
 <section >
   <p>  👨‍🎓 -  No momento sou estudante de <strong>Ciência da Computação</strong> pela Universidade Federal de Alagoas<br>📚 - Atualmente estou estudando front-end com as tecnologias <strong>JavaScript, Html e CSS3</strong></p>
  </section>
+ <br>
+ <br>
 <div style="display: flex; align-items: center">
   <a href="https://github.com/EnriqueSantos-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnriqueSantos-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
