@@ -5,10 +5,10 @@
  </section>
  <br>
  <br>
-<div style="display: flex; align-items: center">
+<div >
   <a href="https://github.com/EnriqueSantos-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnriqueSantos-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width: "400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueSantos-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueSantos-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: flex; justify-content: start; align-items: center;margin: 5px auto; gap: 5px;">
