@@ -1,13 +1,14 @@
-<h2 align="center"> 🖐️   Olá! ---- Eu sou o Enrique Santos</h2>
+<h2 align="center"> 🖐️   Olá! Eu sou o Enrique Santos</h2>
 <br>
 <section >
-   <p>  👨‍🎓 -  Sou estudante de <strong>Ciência da Computação</strong> pela Universidade Federal de Alagoas<br>📚 - Atualmente estou estudando <strong>Front-End</strong> com as tecnologias <strong>JavaScript, Html e CSS3</strong></p>
+   <p>  👨‍🎓 -  Sou estudante de <strong>Ciência da Computação</strong> pela Universidade Federal de Alagoas<br>📚 - Atualmente estou estudando <strong>Front-      End</strong> com as tecnologias <strong>JavaScript, Html e CSS3</strong>
+   </p>
 </section>
 <br>
 <br>
 <div>
-  <a href="https://github.com/EnriqueSantos-dev"><img   src="https://github-readme-stats.vercel.app/api?username=EnriqueSantos-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
-  <img max-width="100%" max-heigth="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueSantos-dev&layout=compact&show_icons=true&theme=github_dark"/>
+  <a href="https://github.com/EnriqueSantos-dev"><img max-width="100%" max-heigth="180px"  src="https://github-readme-stats.vercel.app/api?username=EnriqueSantos-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
+  <img width="51.2%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueSantos-dev&layout=compact&show_icons=true&theme=github_dark"/>
 </div>
   
 <div >
