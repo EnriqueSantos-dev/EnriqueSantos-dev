@@ -1,7 +1,7 @@
 <h2 align="center"> 🖐️   Olá! Eu sou o Enrique Santos</h2>
 <br>
 <section >
-   <p>  👨‍🎓 -  Sou estudante de <strong>Ciência da Computação</strong> pela Universidade Federal de Alagoas e atualmente desenvolvedor web com foco na área de Front-ENd com as tecnologias <strong>HTML5, CSS3 e JavaScript<strong><br
+   <p>  👨‍🎓 -  Sou estudante de <strong>Ciência da Computação</strong> pela Universidade Federal de Alagoas e atualmente desenvolvedor web com foco na área de Front-End com as tecnologias <strong>HTML5, CSS3 e JavaScript<strong><br
    </p>
 </section>
 <br>
