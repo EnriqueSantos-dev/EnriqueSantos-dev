@@ -3,9 +3,27 @@
 <br>
 <br>
 <div display="flex">
-  <a href="https://github.com/EnriqueSantos-dev"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnriqueSantos-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueSantos-dev&layout=compact&langs_count=7&theme=github_dark"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=enriquesantos-dev&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=enriquesantos-dev&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+  </picture>
+  
+   <picture>
+      <source 
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enriquesantos-dev&layout=compact&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enriquesantos-dev&layout=compact&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+  </picture>
 </div>
   
 <div >
