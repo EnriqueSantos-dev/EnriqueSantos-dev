@@ -2,30 +2,21 @@
 <br>
 <br>
 <br>
-<div display="flex">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=enriquesantos-dev&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
+
+<div align="center">
+  <div >
+    <img
+      align="center"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=enriquesantos-dev&show_icons=true&count_private=true&theme=dracula"
     />
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=enriquesantos-dev&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    <img
+     align="center"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enriquesantos-dev&layout=compact&theme=dracula"
     />
-  </picture>
-  
-   <picture>
-      <source 
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enriquesantos-dev&layout=compact&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enriquesantos-dev&layout=compact&theme=light"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-  </picture>
+  </div>
 </div>
-  
+
+
 <div >
   <h2>Minhas tecnologias</h2>
    <div >
