@@ -17,13 +17,16 @@
 <br />
 <div>
   
- <h2 align="center">Sobre mim:</h2>
+## Sobre mim
   
 * Enrique santos, 21 anos.
 * Desenvolvedor FullStack.
 * Atualmente Estudando React/NextJS e NestJS.
-  
-<h2 align="center">Habilidades</h2>
+
+<br/>
+
+## Habilidades
+
 <details open>
   <summary>Minhas linguagens</summary>
   <br>
@@ -65,18 +68,19 @@
   </div>
 </details>
 
-<br>
-<div align="center">
-  <h2>Contate-me por esses meios:</h2>
-  <br>
-  <a href="https://instagram.com/enrique_s_d_o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoenriquesantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
-  <a href="https://www.linkedin.com/in/enrique-santos-923167166" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-<br />
-<br />
-<h2 align="center">Commits</h2>
+<br/>
+
+## Contate-me por esses meios
+
+<a href="https://instagram.com/enrique_s_d_o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href = "mailto:contatoenriquesantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+<a href="https://www.linkedin.com/in/enrique-santos-923167166" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<br/>
+
+## Commits
+
 <div align="center">
 
 ![Snake animation](https://github.com/EnriqueSantos-dev/EnriqueSantos-dev/blob/output/github-contribution-grid-snake.svg)
